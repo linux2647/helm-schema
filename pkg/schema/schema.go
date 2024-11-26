@@ -13,7 +13,7 @@ import (
 	"strings"
 
 	"github.com/dadav/go-jsonpointer"
-	"github.com/dadav/helm-schema/pkg/util"
+	"github.com/linux2647/helm-schema/pkg/util"
 	"github.com/santhosh-tekuri/jsonschema/v5"
 	log "github.com/sirupsen/logrus"
 	"gopkg.in/yaml.v3"
